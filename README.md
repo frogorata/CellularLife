@@ -23,7 +23,7 @@ Each cell can be either alive or dead, and the world evolves step by step accord
 
 ---
 
-## ⚙️ How It Works
+## How It Works
 
 The simulation follows Conway's Game of Life rules:
 
