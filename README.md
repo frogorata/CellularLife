@@ -1,3 +1,6 @@
+![C#](https://img.shields.io/badge/language-C%23-blue)
+![.NET](https://img.shields.io/badge/.NET-Framework-purple)
+![Status](https://img.shields.io/badge/status-educational-green)
 # CellularLife
 
 CellularLife is a C# implementation of Conway's Game of Life.
