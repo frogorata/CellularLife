@@ -3,7 +3,8 @@
 ![Status](https://img.shields.io/badge/status-educational-green)
 # CellularLife
 
-CellularLife is a C# implementation of Conway's Game of Life.
+CellularLife is a C# implementation of Conway's Game of Life | a zero-player cellular automaton simulation based on mathematical rules.
+
 
 This project simulates a cellular automaton where cells evolve based on simple mathematical rules.
 
