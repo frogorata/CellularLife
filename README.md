@@ -6,7 +6,7 @@ This project simulates a cellular automaton where cells evolve based on simple m
 
 ---
 
-## 📌 About the Project
+##  About the Project
 
 CellularLife is an educational project that demonstrates:
 
@@ -19,7 +19,7 @@ Each cell can be either alive or dead, and the world evolves step by step accord
 
 ---
 
-## 🚀 How to Run
+##  How to Run
 
 ### Option 1 — Using Visual Studio (Recommended)
 
