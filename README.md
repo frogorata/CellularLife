@@ -22,6 +22,19 @@ Each cell can be either alive or dead, and the world evolves step by step accord
 
 ---
 
+## ⚙️ How It Works
+
+The simulation follows Conway's Game of Life rules:
+
+1. Any live cell with fewer than two live neighbours dies (underpopulation).
+2. Any live cell with two or three live neighbours lives on.
+3. Any live cell with more than three live neighbours dies (overpopulation).
+4. Any dead cell with exactly three live neighbours becomes a live cell (reproduction).
+
+The grid updates generation by generation.
+
+---
+
 ##  How to Run
 
 ### Option 1 — Using Visual Studio (Recommended)
